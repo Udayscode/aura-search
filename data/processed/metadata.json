@@ -1,0 +1,155 @@
+[
+    {
+        "timestamp": "0000",
+        "description": "A man in a suit stands in front of a mountain range.",
+        "frame": "data/processed/frames/frame_0000.jpg"
+    },
+    {
+        "timestamp": "0002",
+        "description": "A man in a suit and tie stands in front of a mountain range.",
+        "frame": "data/processed/frames/frame_0002.jpg"
+    },
+    {
+        "timestamp": "0004",
+        "description": "A fireball is seen in the image.",
+        "frame": "data/processed/frames/frame_0004.jpg"
+    },
+    {
+        "timestamp": "0006",
+        "description": "A blurry image of a hand holding a camera.",
+        "frame": "data/processed/frames/frame_0006.jpg"
+    },
+    {
+        "timestamp": "0008",
+        "description": "A man dressed in a red Iron Man suit stands in front of a building.",
+        "frame": "data/processed/frames/frame_0008.jpg"
+    },
+    {
+        "timestamp": "0010",
+        "description": "A man in a red suit with a helmet on his head stands in front of a crowd of people.",
+        "frame": "data/processed/frames/frame_0010.jpg"
+    },
+    {
+        "timestamp": "0012",
+        "description": "A man in a red suit with a white circle on his chest is standing in front of a building.",
+        "frame": "data/processed/frames/frame_0012.jpg"
+    },
+    {
+        "timestamp": "0014",
+        "description": "A man in a red suit stands in front of a building.",
+        "frame": "data/processed/frames/frame_0014.jpg"
+    },
+    {
+        "timestamp": "0016",
+        "description": "A man in a red suit with a white design on his chest stands in front of a fire.",
+        "frame": "data/processed/frames/frame_0016.jpg"
+    },
+    {
+        "timestamp": "0000",
+        "description": "A man wearing a suit and tie stands on top of a mountain with snowy peaks behind him.",
+        "frame": "data/processed/frames/frame_0000.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0002",
+        "description": "A man wearing a suit and tie stands on a rocky surface with his arms outstretched.",
+        "frame": "data/processed/frames/frame_0002.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0004",
+        "description": "A fireball is seen in the image.",
+        "frame": "data/processed/frames/frame_0004.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0006",
+        "description": "A blurry image of a hand holding something.",
+        "frame": "data/processed/frames/frame_0006.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0008",
+        "description": "A man dressed as Iron Man walks down a street.",
+        "frame": "data/processed/frames/frame_0008.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0010",
+        "description": "A man wearing a red iron man suit stands among people.",
+        "frame": "data/processed/frames/frame_0010.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0012",
+        "description": "A man wearing a red suit and holding his arm out.",
+        "frame": "data/processed/frames/frame_0012.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0014",
+        "description": "A man wearing a red suit with the number 42 on it stands next to a building and looks out over a cityscape.",
+        "frame": "data/processed/frames/frame_0014.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0016",
+        "description": "A man wearing a red suit with the word \"Avenger\" on it stands next to an explosion.",
+        "frame": "data/processed/frames/frame_0016.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0000",
+        "description": "A man wearing a suit and tie stands on top of a mountain with snowy peaks behind him.",
+        "frame": "data/processed/frames/frame_0000.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0002",
+        "description": "A man wearing a suit and tie stands on a rocky surface with his arms outstretched.",
+        "frame": "data/processed/frames/frame_0002.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0004",
+        "description": "A fireball is seen in the image.",
+        "frame": "data/processed/frames/frame_0004.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0006",
+        "description": "A blurry image of a hand holding something.",
+        "frame": "data/processed/frames/frame_0006.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0008",
+        "description": "A man dressed as Iron Man walks down a street.",
+        "frame": "data/processed/frames/frame_0008.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0010",
+        "description": "A man wearing a red iron man suit stands among people.",
+        "frame": "data/processed/frames/frame_0010.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0012",
+        "description": "A man wearing a red suit and holding his arm out.",
+        "frame": "data/processed/frames/frame_0012.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0014",
+        "description": "A man wearing a red suit with the number 42 on it stands next to a building and looks out over a cityscape.",
+        "frame": "data/processed/frames/frame_0014.jpg",
+        "type": "video_frame"
+    },
+    {
+        "timestamp": "0016",
+        "description": "A man wearing a red suit with the word \"Avenger\" on it stands next to an explosion.",
+        "frame": "data/processed/frames/frame_0016.jpg",
+        "type": "video_frame"
+    }
+]

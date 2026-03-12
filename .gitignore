@@ -1,0 +1,20 @@
+# AI Models & Hardware Cache
+models/
+model_cache/
+
+# Virtual Environments
+venv/
+venv310/
+
+# Personal Data & Logs
+data/processed/frames/*
+data/aura_db/
+*.log
+ingestion.log
+
+# Python system clutter
+__pycache__/
+*.py[cod]
+.DS_Store
+data/raw/*.mp4
+*.swp
